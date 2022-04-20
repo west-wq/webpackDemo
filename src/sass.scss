@@ -2,7 +2,9 @@ $color: rgb(190, 23, 168);
 
 body {
   p {
-    background-color: $color;
+    background: url('../public/yyqx.jpg');
+    background-size: contain;
+    // background: $color;
     width: 300px;
     height: 300px;
     display: block;
